@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1452406911
-ModificationTime: 1452487010
+ModificationTime: 1452492208
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -45,12 +45,13 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: 11
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 32 11
+WinInfo: 96 32 11
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
@@ -4034,9 +4035,8 @@ EndChar
 
 StartChar: uniE0AD
 Encoding: 57517 57517 506
-Width: 500
+Width: 1100
 VWidth: 0
-Flags: W
 LayerCount: 2
 EndChar
 
@@ -4993,8 +4993,8 @@ BDFChar: 466 57542 5 0 4 0 4
 .*s*`-ia5I
 BDFChar: 467 57553 5 0 2 0 4
 +@(HB+92BA
-BDFChar: 468 61489 5 0 3 0 5
-nF5q/ORN5M
+BDFChar: 468 61489 5 0 3 0 4
+nF2O$n,NFg
 BDFChar: 469 61491 5 0 2 0 4
 +CO,8+92BA
 BDFChar: 470 61492 5 0 2 0 4
@@ -5019,8 +5019,8 @@ BDFChar: 479 61501 5 0 3 0 3
 @.<Yn
 BDFChar: 480 61527 5 0 3 -1 5
 JAC[DnA'PS
-BDFChar: 481 61528 5 0 3 -1 6
-&2<VCnF/+C
+BDFChar: 481 61528 5 0 3 -1 5
+&2<VCn1YCR
 BDFChar: 482 61529 5 0 4 0 4
 ;#'g)+92BA
 BDFChar: 483 61537 5 0 4 0 3
