@@ -3,7 +3,7 @@ FontName: creep2
 FullName: creep2
 FamilyName: creep2
 Weight: Regular
-Copyright: Copyright (c) 2016, rko
+Copyright: Copyright (c) 2016, romeovs
 UComments: "2016-1-10: Created with FontForge (http://fontforge.org)"
 Version: 1.0.0
 ItalicAngle: 0
@@ -21,9 +21,9 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1452406911
-ModificationTime: 1452492208
-PfmFamily: 17
-TTFWeight: 400
+ModificationTime: 1452559608
+PfmFamily: 49
+TTFWeight: 500
 TTFWidth: 5
 LineGap: 99
 VLineGap: 0
@@ -51,7 +51,7 @@ NameList: AGL For New Fonts
 DisplaySize: 11
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 32 11
+WinInfo: 96 32 11
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
@@ -4057,6 +4057,45 @@ LayerCount: 2
 EndChar
 EndChars
 BitmapFont: 11 510 9 2 1 
+BDFStartProperties: 36
+FONT 1 "-romeovs-creep2-medium-r-normal--11-110-75-75-C-50-FontSpecific-0"
+COMMENT 0 "Copyright (c) 2015, romeovs "
+FOUNDRY 16 "romeovs"
+FAMILY_NAME 16 "creep2"
+WEIGHT_NAME 16 "medium"
+SLANT 16 "r"
+SETWIDTH_NAME 16 "normal"
+ADD_STYLE_NAME 16 ""
+PIXEL_SIZE 18 11
+POINT_SIZE 18 110
+RESOLUTION_X 19 75
+RESOLUTION_Y 19 75
+SPACING 16 "C"
+AVERAGE_WIDTH 18 50
+CHARSET_REGISTRY 16 "FontSpecific"
+CHARSET_ENCODING 16 "0"
+FONTNAME_REGISTRY 16 ""
+CHARSET_COLLECTIONS 16 "ISO8859-2 ISO8859-4 Symbol FontSpecific"
+FONT_NAME 16 "creep2"
+FACE_NAME 16 "creep2"
+COPYRIGHT 16 "Copyright (c) 2016, romeovs"
+FONT_VERSION 16 "1.0.0"
+FONT_ASCENT 18 9
+FONT_DESCENT 18 2
+UNDERLINE_POSITION 18 -1
+UNDERLINE_THICKNESS 18 1
+X_HEIGHT 18 4
+CAP_HEIGHT 18 4
+RAW_ASCENT 18 818
+RAW_DESCENT 18 181
+NORM_SPACE 18 5
+RELATIVE_WEIGHT 19 50
+RELATIVE_SETWIDTH 19 50
+FIGURE_WIDTH 18 5
+AVG_LOWERCASE_WIDTH 18 50
+AVG_UPPERCASE_WIDTH 18 50
+BDFEndProperties
+Resolution: 75
 BDFChar: 0 32 5 4 4 0 0
 z
 BDFChar: 1 33 5 2 2 0 6
