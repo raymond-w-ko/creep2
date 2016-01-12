@@ -51,7 +51,7 @@ NameList: AGL For New Fonts
 DisplaySize: 11
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 96 32 11
+WinInfo: 0 32 11
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
@@ -4056,7 +4056,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 11 509 9 2 1 
+BitmapFont: 11 510 9 2 1 
 BDFChar: 0 32 5 4 4 0 0
 z
 BDFChar: 1 33 5 2 2 0 6
@@ -4387,8 +4387,8 @@ BDFChar: 163 163 5 0 3 0 6
 @$#oSJC(M#
 BDFChar: 164 164 5 0 4 0 4
 Li?10L]@DT
-BDFChar: 165 165 5 0 4 0 7
-:f-p`;"u.U
+BDFChar: 165 165 5 0 4 0 6
+:f-p`p`L[Z
 BDFChar: 166 166 5 2 2 0 6
 J:N.MJ:N.M
 BDFChar: 167 167 5 0 3 0 6
@@ -4403,8 +4403,8 @@ BDFChar: 171 171 5 0 3 1 4
 :nXIX
 BDFChar: 172 172 5 0 3 3 4
 n.5R"
-BDFChar: 173 173 5 0 3 2 5
-!!!#g
+BDFChar: 173 173 5 0 3 2 2
+n,NFg
 BDFChar: 174 174 5 0 4 0 6
 0M&F@TL^a:
 BDFChar: 175 175 5 0 3 6 6
