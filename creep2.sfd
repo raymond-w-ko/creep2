@@ -4058,7 +4058,7 @@ EndChar
 EndChars
 BitmapFont: 11 510 9 2 1 
 BDFStartProperties: 36
-FONT 1 "-romeovs-creep2-medium-r-normal--11-110-75-75-C-50-FontSpecific-0"
+FONT 1 "-romeovs-creep2-medium-r-normal--11-110-75-75-C-50-ISO10646-1"
 COMMENT 0 "Copyright (c) 2015, romeovs "
 FOUNDRY 16 "romeovs"
 FAMILY_NAME 16 "creep2"
