@@ -1,6 +1,6 @@
-# A proper copy of the 'creep' font by 'romeovs'
-
-## https://github.com/romeovs/creep
+# A proper copy of the 'creep' font by romeovs
+## Original Here:
+### https://github.com/romeovs/creep
 
 I love romeovs's creep font, but I think you could only use it well in Apple's Terminal.app,
 where one could have negative line and character width spacing. The root cause of this appears to 
