@@ -1,4 +1,4 @@
-# A proper copy of the 'creep' font by romeovs
+# A copy of the 'creep' font by romeovs with a strict bounding box per character
 ## Original Here:
 ### https://github.com/romeovs/creep
 
