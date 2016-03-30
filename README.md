@@ -19,7 +19,7 @@ they do not appear often anyways.
 
 ### Result
 
-By maintaining the strict 5x11 bounding box, I was able to get the font working in all the programs I typically use:
+By maintaining the strict 5x11 bounding box, I was able to get the font working in all the programs I typically use that don't support fancy spacing adjustment:
 * XTerm (BDF format)
 * UXRvt (BDF format)
 * X11 (BDF format)
