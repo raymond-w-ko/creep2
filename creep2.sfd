@@ -16,17 +16,18 @@ LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 XUID: [1021 1012 -711285026 18178]
-FSType: 0
+FSType: 8
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1460519147
-ModificationTime: 1460519608
-PfmFamily: 17
+ModificationTime: 1460519941
+PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
 LineGap: 99
 VLineGap: 0
+Panose: 2 0 6 9 0 0 0 0 0 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -3547,7 +3548,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 11 435 9 2 1 romeovs
+BitmapFont: 11 436 9 2 1 romeovs
 BDFStartProperties: 39
 FONT 1 "-romeovs-creep2-medium-r-normal--11-110-75-75-C-50-ISO10646-1"
 SIZE 1 "11 75 75"
