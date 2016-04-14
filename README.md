@@ -23,7 +23,7 @@ By maintaining the strict 5x11 bounding box, I was able to get the font working 
 * XTerm (BDF format)
 * UXRvt (BDF format)
 * X11 (BDF format)
-* Windows GVim (FON format export, name edited with Fony.exe to just "creep2" to fix bug in Windows?)
-* mintty (same FON as above, but with LineSpacing=-1 in recent builds to fix hardcoded 1 pixel line offset).
+* Windows GVim (TTF with embedded bitmaps)
+* mintty (TTF with embedded bitmap).
 
 Now I have crazy awesome code density :-)
