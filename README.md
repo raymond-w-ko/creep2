@@ -24,7 +24,7 @@ By maintaining the strict 5x11 bounding box, I was able to get the font working 
 * UXRvt (BDF format)
 * X11 (BDF format)
 * Windows GVim (TTF with embedded bitmaps)
-* mintty (TTF with embedded bitmap, add "LineSpacing=-1" to config file to get 11px per row height).
+* mintty (TTF with embedded bitmap, add "LineSpacing=-1" to config file to get 11px per row height, add "LineSpacing=0" for newer builds (Apr 8 2016)).
 * Notepad.exe (TTF with embedded bitmaps)
 
 Now I have crazy awesome code density :-)
