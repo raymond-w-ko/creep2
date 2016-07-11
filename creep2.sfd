@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1460519147
-ModificationTime: 1460595216
+ModificationTime: 1468207434
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -54,11 +54,11 @@ NameList: AGL For New Fonts
 DisplaySize: 11
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 32 8
+WinInfo: 192 32 8
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 475004 237502 158334 0 1048576 158334 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 437
+BeginChars: 65536 438
 
 StartChar: space
 Encoding: 32 32 0
@@ -4433,8 +4433,16 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
+
+StartChar: trademark
+Encoding: 8482 8482 437
+Width: 500
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 11 437 9 2 1 romeovs
+BitmapFont: 11 438 9 2 1 romeovs
 BDFStartProperties: 39
 FONT 1 "-romeovs-creep2-medium-r-normal--11-110-75-75-C-50-ISO10646-1"
 SIZE 1 "11 75 75"
@@ -5351,5 +5359,7 @@ BDFChar: 435 10005 5 0 4 0 4
 Leo3jL]@DT
 BDFChar: 436 10006 5 0 4 0 4
 Leo3jL]@DT
+BDFChar: 437 8482 5 0 4 0 8
+p`L\%LtJY^L]@DT
 EndBitmapFont
 EndSplineFont
