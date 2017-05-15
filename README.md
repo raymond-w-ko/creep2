@@ -1,21 +1,22 @@
-# A copy of the 'creep' font by romeovs with a strict bounding box per character
+# A copy of the 'creep' font by romeovs but with a strict character bounding box
 ## Original Here:
 ### https://github.com/romeovs/creep
 
-I love romeovs's creep font, but I think you could only use it well in Apple's Terminal.app,
-where one could have negative line and character width spacing. The root cause of this appears to 
-be because some glyphs are outside the 5px by 11px bounding box, causing a boundings box calculation to take the max bounding 
-box of largest glyph.
+## Introduction
+I love romeovs's creep font, but I think you could only use it well in Apple's Terminal.app
+because it has negative line and character width spacing, which the font requires to be spaced correctly.
+The root cause of this appears to be because some glyphs are bigger than the 5px by 11px bounding box,
+causing most terminals to think a much bigger box is necessary for the general ASCII glyphs.
 
-In order to accomplish this, I manually hand painted all the glyphs from the 'creep' font in fontforge.
-This was probably not the smartest way, but I did not have time to research a method to change it by code.
-On the plus side, I was watching a few movies while drawing these glyphs, so it wasn't too bad.
+In order to fix this issue, I manually hand painted all the glyphs from the 'creep' font in fontforge.
+This was probably not the smartest way, but I did not feel like researching a way to import it by code.
+On the plus side, I was watching a few movies while drawing these glyphs, so it wasn't too bad ;-)
 
-After doing this I could understand why some characters extended past the bounding box, as 5x11 is ridiculously small
-for the more complicated fonts. However, to get it work nicely on terminals and editors without negative spacing support,
-I had to use my best judgement and truncate or modify certain glpyhs so they all fit with no exceptions. This of course
+After doing this I could understand why some characters extend past the bounding box, as 5x11 is ridiculously small
+for the more complicated glyphs. However, to get it to work nicely on terminals and editors without negative spacing support,
+I had to use my best judgement and truncate or modify certain glpyhs so they all fit without exceptions. This of course
 is not as nice, and arguably makes certain glyphs much less recognizable, but I felt it was an acceptable compromise since
-they do not appear often anyways.
+they do not appear often.
 
 ### Result
 
