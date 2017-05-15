@@ -1,6 +1,11 @@
 # A copy of the 'creep' font by romeovs but with a strict character bounding box
-## Original Here:
-### https://github.com/romeovs/creep
+
+## Notes
+* mintty, as of version of 2.7.6, requires `RowSpacing=-1` in the `.minttyrc` file for the box drawing glyphs not to be invisible.
+  * This is found in `$HOME/.minttyrc` for `Cygwin` use, or
+  * `%LOCALAPPDATA%/wsltty\home\%USERNAME%\.minttyr` for `wsltty` use
+  * This commit in mintty results in the breakage https://github.com/mintty/mintty/commit/2cc746667595e08f57b12cfa0df0b67787762620 
+    through Git bisect, although I'm not sure if this is a bug or feature.
 
 ## Introduction
 I love romeovs's creep font, but I think you could only use it well in Apple's Terminal.app
@@ -29,3 +34,6 @@ By maintaining the strict 5x11 bounding box, I was able to get the font working 
 * Notepad.exe (TTF with embedded bitmaps)
 
 Now I have crazy awesome code density :-)
+
+## Original Here:
+### https://github.com/romeovs/creep
