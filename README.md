@@ -1,6 +1,7 @@
 # A copy of the 'creep' font by romeovs but with a strict character bounding box
 
 ## Notes
+* mintty/wsltty, as of version of 3.4.7, should use `AutoLeading=0` and `RowSpacing=0` to retain original spacing between lines.
 * mintty, as of version of 2.7.6, requires `RowSpacing=-1` in the `.minttyrc` file for the box drawing glyphs not to be invisible.
   * This is found in `$HOME/.minttyrc` for `Cygwin` use, or
   * `%LOCALAPPDATA%\wsltty\home\%USERNAME%\.minttyrc` for `wsltty` use
